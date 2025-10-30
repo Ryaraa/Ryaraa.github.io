@@ -1,7 +1,7 @@
 ---
 title: Rangkuman Materi STQA 2025
 icon: fas fa-book
-order: 4
+order: 6
 ---
 
 # 🧠 Rangkuman Materi STQA 2025
@@ -65,6 +65,7 @@ Fokus: *alur kerja, kemudahan penggunaan, aksesibilitas.*
 
 **Format umum Test Case:**
 | ID | Deskripsi | Input | Expected Output | Status |
+
 |----|------------|--------|-----------------|---------|
 
 **Bug Report** → catatan jika terjadi kesalahan atau hasil tak sesuai ekspektasi.  
